@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User_Registration_In_Regex", "Regex_Problem\User_Registration_In_Regex.csproj", "{F9AFB25A-3652-42F5-8168-DBA4704F0713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9AFB25A-3652-42F5-8168-DBA4704F0713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AFB25A-3652-42F5-8168-DBA4704F0713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AFB25A-3652-42F5-8168-DBA4704F0713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AFB25A-3652-42F5-8168-DBA4704F0713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {628B5E2B-77AB-4F15-B27D-80FB0A9020DD}
+	EndGlobalSection
+EndGlobal

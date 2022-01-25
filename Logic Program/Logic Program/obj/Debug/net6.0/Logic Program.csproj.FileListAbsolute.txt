@@ -1,0 +1,30 @@
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.exe
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.deps.json
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.runtimeconfig.json
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.dll
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\bin\Debug\net6.0\ref\Logic Program.dll
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.pdb
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.csproj.AssemblyReference.cache
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.AssemblyInfoInputs.cache
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.AssemblyInfo.cs
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.dll
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\obj\Debug\net6.0\ref\Logic Program.dll
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.pdb
+C:\Users\sanjay\Desktop\Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.genruntimeconfig.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.exe
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.deps.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.runtimeconfig.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\bin\Debug\net6.0\ref\Logic Program.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\bin\Debug\net6.0\Logic Program.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.csproj.AssemblyReference.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.AssemblyInfoInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.AssemblyInfo.cs
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\obj\Debug\net6.0\ref\Logic Program.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Logic Program\Logic Program\obj\Debug\net6.0\Logic Program.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.csproj.AssemblyReference.cache
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.AssemblyInfoInputs.cache
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.AssemblyInfo.cs
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.exe
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.deps.json
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.runtimeconfig.json
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.dll
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\ref\Basic Core Assignment.dll
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.pdb
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.dll
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\ref\Basic Core Assignment.dll
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.pdb
+C:\Users\sanjay\Desktop\Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.genruntimeconfig.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.exe
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.deps.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.runtimeconfig.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\ref\Basic Core Assignment.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\bin\Debug\net6.0\Basic Core Assignment.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.csproj.AssemblyReference.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.AssemblyInfoInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.AssemblyInfo.cs
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\ref\Basic Core Assignment.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Basic Core Assignment\Basic Core Assignment\obj\Debug\net6.0\Basic Core Assignment.genruntimeconfig.cache

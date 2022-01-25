@@ -1,0 +1,15 @@
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\bin\Debug\net6.0\User_Registration_In_Regex.exe
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\bin\Debug\net6.0\User_Registration_In_Regex.deps.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\bin\Debug\net6.0\User_Registration_In_Regex.runtimeconfig.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\bin\Debug\net6.0\User_Registration_In_Regex.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\bin\Debug\net6.0\ref\User_Registration_In_Regex.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\bin\Debug\net6.0\User_Registration_In_Regex.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\obj\Debug\net6.0\User_Registration_In_Regex.csproj.AssemblyReference.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\obj\Debug\net6.0\User_Registration_In_Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\obj\Debug\net6.0\User_Registration_In_Regex.AssemblyInfoInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\obj\Debug\net6.0\User_Registration_In_Regex.AssemblyInfo.cs
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\obj\Debug\net6.0\User_Registration_In_Regex.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\obj\Debug\net6.0\User_Registration_In_Regex.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\obj\Debug\net6.0\ref\User_Registration_In_Regex.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\obj\Debug\net6.0\User_Registration_In_Regex.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Regex_Problem\Regex_Problem\obj\Debug\net6.0\User_Registration_In_Regex.genruntimeconfig.cache

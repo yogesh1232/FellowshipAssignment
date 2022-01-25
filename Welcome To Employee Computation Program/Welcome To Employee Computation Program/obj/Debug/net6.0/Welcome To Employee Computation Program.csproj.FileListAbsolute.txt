@@ -1,0 +1,30 @@
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.exe
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.deps.json
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.runtimeconfig.json
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.dll
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\ref\Welcome To Employee Computation Program.dll
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.pdb
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.csproj.AssemblyReference.cache
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.AssemblyInfoInputs.cache
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.AssemblyInfo.cs
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.dll
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\ref\Welcome To Employee Computation Program.dll
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.pdb
+C:\Users\sanjay\Desktop\Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.genruntimeconfig.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.exe
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.deps.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.runtimeconfig.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\ref\Welcome To Employee Computation Program.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\bin\Debug\net6.0\Welcome To Employee Computation Program.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.csproj.AssemblyReference.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.AssemblyInfoInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.AssemblyInfo.cs
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\ref\Welcome To Employee Computation Program.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Welcome To Employee Computation Program\Welcome To Employee Computation Program\obj\Debug\net6.0\Welcome To Employee Computation Program.genruntimeconfig.cache
