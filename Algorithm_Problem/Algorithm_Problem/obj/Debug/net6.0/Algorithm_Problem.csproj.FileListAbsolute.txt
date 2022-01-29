@@ -1,0 +1,15 @@
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\bin\Debug\net6.0\Algorithm_Problem.exe
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\bin\Debug\net6.0\Algorithm_Problem.deps.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\bin\Debug\net6.0\Algorithm_Problem.runtimeconfig.json
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\bin\Debug\net6.0\Algorithm_Problem.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\bin\Debug\net6.0\ref\Algorithm_Problem.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\bin\Debug\net6.0\Algorithm_Problem.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\obj\Debug\net6.0\Algorithm_Problem.csproj.AssemblyReference.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\obj\Debug\net6.0\Algorithm_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\obj\Debug\net6.0\Algorithm_Problem.AssemblyInfoInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\obj\Debug\net6.0\Algorithm_Problem.AssemblyInfo.cs
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\obj\Debug\net6.0\Algorithm_Problem.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\obj\Debug\net6.0\Algorithm_Problem.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\obj\Debug\net6.0\ref\Algorithm_Problem.dll
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\obj\Debug\net6.0\Algorithm_Problem.pdb
+C:\Users\sanjay\Desktop\FellowShip Assignment\Algorithm_Problem\Algorithm_Problem\obj\Debug\net6.0\Algorithm_Problem.genruntimeconfig.cache
