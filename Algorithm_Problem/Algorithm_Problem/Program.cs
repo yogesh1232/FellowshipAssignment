@@ -22,7 +22,7 @@ namespace Algorithm_Problems
 
             // Merge Sort
             int[] arr2 = { 22, 12, 33, 2, 4, 5 };
-            Console.WriteLine("\nWelcome to Bubble sort: ");
+            Console.WriteLine("\nWelcome to Merge sort: ");
             Console.WriteLine("Given Array");
             MergeSort ob2 = new MergeSort();
             ob2.printArray2(arr2);

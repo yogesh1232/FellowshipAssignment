@@ -23,12 +23,12 @@ namespace Logic_Program
             }
             if (sum == n)
             {
-                Console.WriteLine("Entered number is a perfect number");
+                Console.WriteLine(number  + "is a perfect number");
                 Console.ReadLine();
             }
             else
             {
-                Console.WriteLine("Entered number is not a perfect number");
+                Console.WriteLine(number + "is not a perfect number");
                 Console.ReadLine();
             }
         }

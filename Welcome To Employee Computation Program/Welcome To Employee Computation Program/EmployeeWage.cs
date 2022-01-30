@@ -35,27 +35,31 @@ namespace Welcome_To_Employee_Computation_Program
             Console.WriteLine("Employee Wage Of Part Time Employee: " + empWage);
             Console.ReadKey();
         }
-
         public static void EmpWageUsingSwitch()
         {
+            //Constants
+
+            //variables
             int empHrs = 0;
             int empWage = 0;
             Random random = new Random();
-            int empCheck = random.Next(0, 2);
+            int empCheck = random.Next(0, 3);
             switch (empCheck)
             {
                 case IS_PART_TIME:
+                    empHrs = 4;
+                    break;
+                case IS_FULL_TIME:
                     empHrs = 8;
                     break;
-
-                //default:
-                    //empHrs = 0;
-                    //break;
+                default:
+                    empHrs = 0;
+                    break;
             }
             empWage = empHrs * EMP_RATE_PER_HOUR;
-            Console.WriteLine("Emp Wage Using Switch Statement: " + empWage);
-            Console.ReadKey();
+            Console.WriteLine("Emp Wage: " + empWage);
         }
+
         public static void CalculateWagesFor20DaysInMonth()
         {
 
@@ -67,22 +71,26 @@ namespace Welcome_To_Employee_Computation_Program
             {
 
                 Random random = new Random();
-                int empCheck = random.Next(0, 2);
+                int empCheck = random.Next(0, 3);
                 switch (empCheck)
                 {
                     case IS_PART_TIME:
+                        empHrs = 4;
+                        break;
+                    case IS_FULL_TIME:
                         empHrs = 8;
                         break;
-                    //default:
-                        //empHrs = 0;
-                        //break;
+                    default:
+                        empHrs = 0;
+                        break;
                 }
                 empWage = empHrs * EMP_RATE_PER_HOUR;
                 totalEmpWage += empWage;
-                Console.WriteLine("Emp Wage For 20 Days: " + empWage);
+                Console.WriteLine("Emp Wage: " + empWage);
             }
-            Console.WriteLine("Total Emp Wage For 20 Days: " + totalEmpWage);
+            Console.WriteLine("Total Emp Wage: " + totalEmpWage);
         }
+
         public static void CalculateWageTill100HrsOr20IsReached()
         {
 
@@ -94,13 +102,15 @@ namespace Welcome_To_Employee_Computation_Program
             {
                 totalWorkingDays++;
                 Random random = new Random();
-                int empCheck = random.Next(0, 2);
+                int empCheck = random.Next(0, 3);
                 switch (empCheck)
                 {
                     case IS_PART_TIME:
+                        empHrs = 4;
+                        break;
+                    case IS_FULL_TIME:
                         empHrs = 8;
                         break;
-
                     default:
                         empHrs = 0;
                         break;
@@ -109,10 +119,10 @@ namespace Welcome_To_Employee_Computation_Program
                 Console.WriteLine("Days#: " + totalWorkingDays + " Emp Hrs : " + empHrs);
             }
             int totalEmpWage = totalEmpHrs * EMP_RATE_PER_HOUR;
-            Console.WriteLine("Total Emp Wage 100 Hrs: " + totalEmpWage);
+            Console.WriteLine("Total Emp Wage: " + totalEmpWage);
         }
 
-//Find Employee Length Using Class Method
+        //Find Employee Length Using Class Method
         public static int ComputeEmpWage()
         {
 
