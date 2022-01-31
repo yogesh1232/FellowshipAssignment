@@ -6,7 +6,7 @@ int output = MaximumNumberCheck.MaximumIntegerNumber(143, 141, 136);
 Console.WriteLine(output);
 double doubleoutput = MaximumNumberCheck.MaximumfloatNumber(10.66, 18.71, 36.42);
 Console.WriteLine(doubleoutput);
-string strigoutput = MaximumNumberCheck.MaximumStringNumber("Nitish", "nitish", "vishal");
+string strigoutput = MaximumNumberCheck.MaximumStringNumber("Yogesh", "Haresh", "vishal");
 Console.WriteLine(strigoutput);
 int[] intArray = { 102, 356, 306, 421, 825 };
 GenericMaximum<int> generic = new GenericMaximum<int>(intArray);

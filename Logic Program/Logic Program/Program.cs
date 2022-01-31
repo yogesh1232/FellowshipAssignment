@@ -3,8 +3,8 @@ using Logic_Program;
 
 //Console.WriteLine("Hello, World!");
 //FibonacciSeries.GetFibonacciSeries();
-PrimeNumber.GetPrimeNumber();
+//PrimeNumber.GetPrimeNumber();
 //ReverseNumber.GetReverseNumber();
 //StopwatchProgram.GetStopwatch();
-//PerfectNumber.GetPerfectNumber();
-CouponNumber.couponNumber();
+PerfectNumber.GetPerfectNumber();
+//CouponNumber.couponNumber();

@@ -13,7 +13,7 @@ namespace Logic_Program
             int number, reverse = 0, remainder;
             Console.WriteLine("Enter a number: ");
             number = Convert.ToInt32(Console.ReadLine());
-            while (n != 0)
+            while (number != 0)
             {
                 remainder = number % 10;
                 reverse = reverse * 10 + remainder;
