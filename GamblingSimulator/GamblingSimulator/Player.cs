@@ -8,13 +8,14 @@ namespace GamblingSimulator
 {
     public class Player
     { 
-         const int STAKE_PER_DAY = 100;
-         const int BET_PER_GAME = 1;
-         public static void GameStatus()
+        public static void GameStatus()
         {
+            int STAKE_PER_DAY = 100;
+            int BET_PER_GAME = 1;
 
         }
-         
+        
+        }         
 
     }
 }
